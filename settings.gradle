@@ -1,0 +1,3 @@
+include ':mdlibrary'
+include ':app'
+rootProject.name = "md-library"
